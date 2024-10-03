@@ -1,0 +1,11 @@
+/* Login.css */
+.background-container {
+  background-image: url('../assets/groc32.jpg'); /* Specify the path to your background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh; /* Set a minimum height to cover the entire viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

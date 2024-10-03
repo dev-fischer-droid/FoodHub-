@@ -1,0 +1,12 @@
+/* Login.css */
+.background-container1 {
+    background-image: url('../assets/navbar.jpeg'); /* Specify the path to your background image */
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-position: center;
+    /* min-height: 100vh;  */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
